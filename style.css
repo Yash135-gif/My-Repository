@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.listtext{
+    list-style: none;
+
+}
+ .listtext li a{
+       
+   text-decoration: none;
+   color: black;
+ }
