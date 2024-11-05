@@ -5,10 +5,23 @@
 
 .listtext{
     list-style: none;
-
+    margin-left: 50px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }
- .listtext li a{
-       
-   text-decoration: none;
-   color: black;
+.listtext li a{
+  text-decoration: none;
+  color: black;
+}
+
+ div .box{
+  border: 1px solid black;
+  width: 200px; height: 200px;
+  
+ }
+ #mainid {
+  display: flex;
+ 
  }
